@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072375362444",
+    "project_id": "cimema-sync",
+    "storage_bucket": "cimema-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072375362444:android:7501d2956e07df90bedca9",
+        "android_client_info": {
+          "package_name": "com.example.cinema_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXfkdkz5WFoOrFxtHGXJDFgYtO4yGTio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
