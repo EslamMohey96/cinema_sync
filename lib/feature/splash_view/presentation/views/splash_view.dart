@@ -8,11 +8,9 @@ class SplashView extends StatelessWidget {
     return const Scaffold(
       body:  Center(
         child: Image(
-          image: NetworkImage(
-            'https://omega.gg/vox/repository/hub/tmdb/tmdb.png',
-          ),
-          width: 200,
-          height: 300,
+          image:AssetImage("assets/icon/cinema.png"),
+          width: 300,
+          height: 250,
           fit: BoxFit.cover,
         ),
       ),

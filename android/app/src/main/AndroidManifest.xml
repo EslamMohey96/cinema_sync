@@ -37,7 +37,7 @@
             <data 
               android:scheme="cinema_sync" 
               android:host="host"
-              <!-- android:pathPrefix="/" -->
+             
               />
             <!-- <data 
               android:scheme="cinemaSync" 
